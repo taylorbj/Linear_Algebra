@@ -1,2 +1,2 @@
 # Linear_Algebra
-Programs involving topics of linear algebra.
+Programs involving various linear algebra concepts.
